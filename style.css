@@ -48,4 +48,26 @@ main
     background-color: white;
     margin: 40px auto;
 }
+.c-head
+{
+    padding: 15px 0px 15px 30px;
+    border-bottom: solid 1px lightgray;
+}
+.btn-blue
+{
+    
+    font-size: 0.5rem;
+    padding: 5px 0px;
+    background-color: lightblue;
+    border-radius: 50px;
+}
+
+.btn-white
+{
+    
+    font-size: 0.5rem;
+    padding: 5px;
+    background-color: white;
+    border-radius: 50px;
+}
 
