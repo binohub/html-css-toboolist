@@ -7,8 +7,45 @@
     box-sizing: border-box;
     font-family: 'Josefin Sans', sans-serif;
 }
-/*! utility */
+/*! ########## utility ########## */
 .debug
 {
     border: solid 1px black;
 }
+.bg-gray
+{
+    background-color: rgba(211, 211, 211, 0.4);
+}
+
+/*? ########## utility ########## */
+
+
+/*? ########### HEADER ############# */
+header
+{
+    background-color: white;
+}
+#logo
+{
+    width: 50px;
+    padding: 5px 0px 5px 5px;
+}
+#logo-title
+{
+    display: inline-block;
+    font-size: 0.8rem;
+}
+
+/*? ########### MAIN ############# */
+main
+{
+    min-height: 800px;
+}
+.container
+{
+    width: 80%;
+    height: 500px;
+    background-color: white;
+    margin: 40px auto;
+}
+
